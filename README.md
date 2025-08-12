@@ -43,7 +43,6 @@ job_finder_agent/
 ├── job_agents.py       # AI agent definitions and analysis logic
 ├── mcp_server.py       # Bright Data MCP server management
 ├── requirements.txt    # Python dependencies
-├── assets/            # Static assets (images, GIFs)
 └── .env              # Environment variables (create this)
 ```
 
