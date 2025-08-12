@@ -53,7 +53,7 @@ job_finder_agent/
 
 ```bash
 git clone https://github.com/krushitghevariya/Job-Finder-Agent
-cd advance_ai_agents/job_finder_agent
+cd Job-Finder-Agent
 ```
 
 2. Create a virtual environment:
