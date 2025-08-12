@@ -26,9 +26,6 @@ A powerful AI-powered job search agent that analyzes LinkedIn profiles and finds
   - Progress tracking
   - Error handling
 
-## How it Works
-
-![Gif](./assets/job-search-agent.gif)
 
 ## Prerequisites
 
